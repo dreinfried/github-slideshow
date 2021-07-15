@@ -2,5 +2,5 @@
 layout: slide
 title: "Weclome to our second slide!"
 ---
-Your Text
+"Life, uh, finds a way." - Dr. Ian Malcom
 Use the left arrow to go back!
